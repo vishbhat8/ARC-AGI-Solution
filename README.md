@@ -1,7 +1,7 @@
 # ARC-AGI-Solution
 
 
-# Architecture
+## Architecture
 
 ![test img](images/q.png)
 
