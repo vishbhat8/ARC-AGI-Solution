@@ -10,8 +10,8 @@ This repo only contains the architecture and the approach, not the code. In orde
 
 The problems from ARC-AGI can be classified into 2 types, based on my understanding of the official publication:
 
-a) Fill-in-the-blanks type problems usually involving symmetry
-b) Goal-directedness problems
+1. Fill-in-the-blanks type problems usually involving symmetry
+1. Goal-directedness problems
 
 Most problems of the first type can be solved by taking the mirror images of the input along either x or y or diagonal axes, so I will not be addressing them immediately. We can come back to them later.
 
