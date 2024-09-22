@@ -8,7 +8,7 @@ This repo only contains the architecture and the approach, not the code. In orde
 
 ## Architecture
 
-The problems from ARC-AGI can be classified into 2 types, based on my understanding of the official publication:
+The problems from ARC-AGI can be classified into 2 types, based on my understanding of the official publication and the problem set:
 
 1. Fill-in-the-blanks type problems usually involving symmetry
 1. Goal-directedness problems
