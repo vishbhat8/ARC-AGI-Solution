@@ -1,6 +1,6 @@
-# ARC-AGI Solution
+# ARC-AGI Solution (Rule-based)
 
-The following is my solution for the ARC-AGI benchmark. It has been tested on the first 200 examples from the evaluation set and it is able to address and solve all of them. I am slowly adding worked-out solutions for each problem from the eval set into this repo (check [solutions/evaluation directory](https://github.com/vishbhat8/ARC-AGI-Solution/tree/main/solutions/evaluation)).
+The following is my rule-based solution for the ARC-AGI benchmark. It has been tested on the first 200 examples from the evaluation set and it is able to address and solve all of them. I am slowly adding worked-out solutions for each problem from the eval set into this repo (check [solutions/evaluation directory](https://github.com/vishbhat8/ARC-AGI-Solution/tree/main/solutions/evaluation)).
 
 This repo only contains the architecture and the approach, not the code. In order to help implement the architecture described below, I am putting together a team. DM if you are interested in helping us. All the code for this project will be open-source.
 
