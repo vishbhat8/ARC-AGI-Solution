@@ -80,7 +80,7 @@ Definition: All possible self-relations between the object parameters. The follo
 ### Step 2: Changes
 Definition: List of all the changes from the input to output in the given example. This includes a list of which objects were retained from the input, which were removed, and which output objects were added.
 
-### Step 3: Dict of all possible changes to observations (if statements)
+### Step 3: Dict of all possible changes to observations (if-statements)
 Definition: Mapping of all possible changes to observations. Here, we try to explain each change in terms of the params and self-relations.
 
 - Format of each if-statement: `<literal1> if <literal1> AND <literal2> AND ... <literalN>`
