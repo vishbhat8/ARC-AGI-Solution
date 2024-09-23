@@ -1,6 +1,6 @@
 # ARC-AGI Solution
 
-The following is my solution for the ARC-AGI benchmark. It has been tested on the first 200 examples from the evaluation set and it is able to address and solve all of them. I am slowly adding worked-out solutions for each problem from the eval set into this repo (check solutions/evaluation directory).
+The following is my solution for the ARC-AGI benchmark. It has been tested on the first 200 examples from the evaluation set and it is able to address and solve all of them. I am slowly adding worked-out solutions for each problem from the eval set into this repo (check solutions/evaluation directory here: https://github.com/vishbhat8/ARC-AGI-Solution/solutions/evaluation ).
 
 This repo only contains the architecture and the approach, not the code. In order to help implement the architecture described below, I am putting together a team. DM if you are interested in helping us. All the code for this project will be open-source.
 
@@ -93,4 +93,4 @@ Definition: Intersection of the common if-statements and union of other required
 Definition: Apply the if-statements to the test input and get the output
 
 
-**Note**: For more clarification on the steps and to get a better understanding of the architecture, please review the worked-out solutions in the solutions/evaluation directory. Please DM me if you have any thoughts to share. 
+**Note**: For more clarification on the steps and to get a better understanding of the architecture, please review the worked-out solutions in the solutions/evaluation directory: https://github.com/vishbhat8/ARC-AGI-Solution/solutions/evaluation. Please DM me if you have any thoughts to share. 
