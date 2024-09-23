@@ -84,7 +84,7 @@ Definition: List of all the changes from the input to output in the given exampl
 Definition: Mapping of all possible changes to observations. Here, we try to explain each change in terms of the params and self-relations.
 
 - Format of each if-statement: `<literal1> if <literal1> AND <literal2> AND ... <literalN>`
-- An if-statement is valid only if the change in score before and after the if-statement's change is > 0.
+- An if-statement is valid only if the score gain is > 0.
 
 ### Step 4: Minimal number of if-statements
 Definition: Intersection of the common if-statements and union of other required if-statements such that we have the minimal number of if-statements needed to get to the output in each case.
